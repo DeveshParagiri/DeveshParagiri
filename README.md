@@ -4,6 +4,6 @@ Welcome to my Github page!
 
 
 ### Contacts
-* [Personal website](https://andreagrigoletto.com/)
-* [LinkedIn](https://www.linkedin.com/in/andrea-grigoletto/)
+* [Personal website](https://deveshparagiri.com/)
+* [LinkedIn](https://www.linkedin.com/in/deveshparagiri)
 * devesh.paragiri@gmail.com
