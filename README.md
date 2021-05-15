@@ -5,5 +5,5 @@ Welcome to my Github page!
 
 ### Contacts
 * [Personal website](https://deveshparagiri.com/)
-* [LinkedIn](https://www.linkedin.com/in/deveshparagiri)
+* [LinkedIn](https://www.linkedin.com/in/devesh-paragiri-96b593212/)
 * devesh.paragiri@gmail.com
