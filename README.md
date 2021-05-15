@@ -4,12 +4,10 @@ Welcome to my Github page!
 
 <p>
   <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a>
 </p>
+
 ### Contacts
 * [Personal website](https://deveshparagiri.com/)
 * [LinkedIn](https://www.linkedin.com/in/devesh-paragiri-96b593212/)
