@@ -7,7 +7,7 @@ skills = {
   code: ['Python', 'Java'], 
   frameworks: ['Flask', 'TensorFlow', 'Keras'],
   databases: ['MySQL', 'PostgreSQL'],
-  cloud ☁️: ['GCP'],
+  cloud: ['GCP'],
   website : 'www.deveshparagiri.com',
 }
 ```
