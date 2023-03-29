@@ -2,6 +2,10 @@
 
 Welcome to my Github page! I'm Devesh (Dev), an undergrad @ University of Maryland. I am passionate about solving real-world problems through technology. 
 
+skills = { 'Languages': ['Python', 'JAVA'],
+            'Frameworks': ['Flask', 'Tensorflow', 'Keras', 'scikit-learn'],
+             'Databases': ['MySQL', 'PostgreSQL'}
+}
 Feel free to check out my work!
 
 ### Contacts
