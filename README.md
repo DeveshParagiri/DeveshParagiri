@@ -2,13 +2,16 @@
 
 Welcome to my Github page! I'm Devesh (Dev), an undergrad @ University of Maryland. I am passionate about solving real-world problems through technology. 
 
-skills = { 'Languages': ['Python', 'JAVA'],
-            'Frameworks': ['Flask', 'Tensorflow', 'Keras', 'scikit-learn'],
-             'Databases': ['MySQL', 'PostgreSQL'}
+```python
+skills = {
+  code: ['Python', 'Java'], 
+  frameworks: ['Flask', 'TensorFlow', 'Keras'],
+  databases: ['MySQL', 'PostgreSQL'],
+  cloud ☁️: ['GCP'],
+  website : 'www.deveshparagiri.com',
 }
-Feel free to check out my work!
+```
 
 ### Contacts
-* [Personal website](https://deveshparagiri.github.io/webpage/)
 * [LinkedIn](https://www.linkedin.com/in/devesh-paragiri-96b593212/)
 * devesh.paragiri@gmail.com
