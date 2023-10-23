@@ -4,10 +4,10 @@ Welcome to my Github page! I'm Devesh (Dev), an undergrad @ University of Maryla
 
 ```python
 skills = {
-  code: ['Python', 'Java'], 
-  frameworks: ['Flask', 'TensorFlow', 'Keras'],
-  databases: ['MySQL', 'PostgreSQL'],
-  cloud: ['AWS'],
+  code: ['Python', 'Java', 'C++'], 
+  frameworks: ['FastAPI', 'Flask', 'TensorFlow', 'Keras'],
+  databases: ['MySQL', 'PostgreSQL', 'Pinecone', 'MongoDB'],
+  cloud: ['AWS','Azure','GCP'],
   website : 'www.deveshparagiri.com',
 }
 ```
