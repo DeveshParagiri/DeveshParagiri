@@ -1,6 +1,6 @@
 # hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my Github page! I'm Devesh (Dev), an undergrad @ University of Maryland. I am passionate about solving real-world problems through technology. 
+Welcome to my Github page! I'm Dev, an undergrad @ University of Maryland. I am passionate about solving real-world problems through technology. 
 
 ```python
 skills = {
